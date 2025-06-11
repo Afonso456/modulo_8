@@ -59,14 +59,14 @@
             // sobreToolStripMenuItem
             // 
             sobreToolStripMenuItem.Name = "sobreToolStripMenuItem";
-            sobreToolStripMenuItem.Size = new Size(104, 22);
+            sobreToolStripMenuItem.Size = new Size(180, 22);
             sobreToolStripMenuItem.Text = "&Sobre";
             sobreToolStripMenuItem.Click += sobreToolStripMenuItem_Click;
             // 
             // sairToolStripMenuItem
             // 
             sairToolStripMenuItem.Name = "sairToolStripMenuItem";
-            sairToolStripMenuItem.Size = new Size(104, 22);
+            sairToolStripMenuItem.Size = new Size(180, 22);
             sairToolStripMenuItem.Text = "Sa&ir";
             sairToolStripMenuItem.Click += sairToolStripMenuItem_Click;
             // 
