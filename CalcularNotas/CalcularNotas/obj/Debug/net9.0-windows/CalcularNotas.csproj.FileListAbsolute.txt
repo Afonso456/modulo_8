@@ -1,0 +1,16 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\bin\Debug\net9.0-windows\CalcularNotas.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\bin\Debug\net9.0-windows\CalcularNotas.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\bin\Debug\net9.0-windows\CalcularNotas.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\bin\Debug\net9.0-windows\CalcularNotas.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\bin\Debug\net9.0-windows\CalcularNotas.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\obj\Debug\net9.0-windows\CalcularNotas.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\obj\Debug\net9.0-windows\CalcularNotas.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\obj\Debug\net9.0-windows\CalcularNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\obj\Debug\net9.0-windows\CalcularNotas.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\obj\Debug\net9.0-windows\CalcularNotas.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\obj\Debug\net9.0-windows\CalcularNotas.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\obj\Debug\net9.0-windows\CalcularNotas.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\obj\Debug\net9.0-windows\refint\CalcularNotas.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\obj\Debug\net9.0-windows\CalcularNotas.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\obj\Debug\net9.0-windows\CalcularNotas.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\CalcularNotas\CalcularNotas\obj\Debug\net9.0-windows\ref\CalcularNotas.dll

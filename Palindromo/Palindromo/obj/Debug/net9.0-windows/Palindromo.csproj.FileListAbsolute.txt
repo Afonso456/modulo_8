@@ -1,0 +1,17 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\Palindromo.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\Palindromo.F_splash.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\Palindromo.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\Palindromo.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\Palindromo.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\bin\Debug\net9.0-windows\Palindromo.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\bin\Debug\net9.0-windows\Palindromo.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\bin\Debug\net9.0-windows\Palindromo.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\bin\Debug\net9.0-windows\Palindromo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\bin\Debug\net9.0-windows\Palindromo.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\Palindromo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\refint\Palindromo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\Palindromo.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\Palindromo.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Palindromo\Palindromo\obj\Debug\net9.0-windows\ref\Palindromo.dll

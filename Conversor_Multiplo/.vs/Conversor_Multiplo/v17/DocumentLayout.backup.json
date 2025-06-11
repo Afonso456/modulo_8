@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESEN\\OneDrive - Escola Secund\u00E1ria de Em\u00EDdio Navarro de Viseu\\Documentos\\C#\\Conversor_Multiplo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EC7D8D-D8DB-45AE-9D68-A5E111103415}|Conversor_Multiplo\\Conversor_Multiplo.csproj|c:\\users\\esen\\onedrive - escola secund\u00E1ria de em\u00EDdio navarro de viseu\\documentos\\c#\\conversor_multiplo\\conversor_multiplo\\moedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0EC7D8D-D8DB-45AE-9D68-A5E111103415}|Conversor_Multiplo\\Conversor_Multiplo.csproj|solutionrelative:conversor_multiplo\\moedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0EC7D8D-D8DB-45AE-9D68-A5E111103415}|Conversor_Multiplo\\Conversor_Multiplo.csproj|C:\\Users\\ESEN\\OneDrive - Escola Secund\u00E1ria de Em\u00EDdio Navarro de Viseu\\Documentos\\C#\\Conversor_Multiplo\\conversor_multiplo\\moedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0EC7D8D-D8DB-45AE-9D68-A5E111103415}|Conversor_Multiplo\\Conversor_Multiplo.csproj|solutionrelative:conversor_multiplo\\moedas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Moedas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ESEN\\OneDrive - Escola Secund\u00E1ria de Em\u00EDdio Navarro de Viseu\\Documentos\\C#\\Conversor_Multiplo\\Conversor_Multiplo\\Moedas.cs",
+              "RelativeDocumentMoniker": "Conversor_Multiplo\\Moedas.cs",
+              "ToolTip": "C:\\Users\\ESEN\\OneDrive - Escola Secund\u00E1ria de Em\u00EDdio Navarro de Viseu\\Documentos\\C#\\Conversor_Multiplo\\Conversor_Multiplo\\Moedas.cs [Design]",
+              "RelativeToolTip": "Conversor_Multiplo\\Moedas.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:31:59.385Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Moedas.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\OneDrive - Escola Secund\u00E1ria de Em\u00EDdio Navarro de Viseu\\Documentos\\C#\\Conversor_Multiplo\\Conversor_Multiplo\\Moedas.cs",
+              "RelativeDocumentMoniker": "Conversor_Multiplo\\Moedas.cs",
+              "ToolTip": "C:\\Users\\ESEN\\OneDrive - Escola Secund\u00E1ria de Em\u00EDdio Navarro de Viseu\\Documentos\\C#\\Conversor_Multiplo\\Conversor_Multiplo\\Moedas.cs",
+              "RelativeToolTip": "Conversor_Multiplo\\Moedas.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAIA0wBkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T18:07:38.915Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\bin\Debug\net9.0-windows\Win_OlaMundo.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\bin\Debug\net9.0-windows\Win_OlaMundo.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\bin\Debug\net9.0-windows\Win_OlaMundo.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\bin\Debug\net9.0-windows\Win_OlaMundo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\bin\Debug\net9.0-windows\Win_OlaMundo.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\obj\Debug\net9.0-windows\Win_OlaMundo.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\obj\Debug\net9.0-windows\Win_OlaMundo.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\obj\Debug\net9.0-windows\Win_OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\obj\Debug\net9.0-windows\Win_OlaMundo.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\obj\Debug\net9.0-windows\Win_OlaMundo.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\obj\Debug\net9.0-windows\Win_OlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\obj\Debug\net9.0-windows\Win_OlaMundo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\obj\Debug\net9.0-windows\refint\Win_OlaMundo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\obj\Debug\net9.0-windows\Win_OlaMundo.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\obj\Debug\net9.0-windows\Win_OlaMundo.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Win_OlaMundo\Win_OlaMundo\obj\Debug\net9.0-windows\ref\Win_OlaMundo.dll

@@ -1,0 +1,39 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\bin\Debug\net9.0-windows\Conversor_Multiplo.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\bin\Debug\net9.0-windows\Conversor_Multiplo.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\bin\Debug\net9.0-windows\Conversor_Multiplo.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\bin\Debug\net9.0-windows\Conversor_Multiplo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\bin\Debug\net9.0-windows\Conversor_Multiplo.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.Moedas.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.Temperatura.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.Unidades.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\refint\Conversor_Multiplo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\ref\Conversor_Multiplo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\bin\Debug\net9.0-windows\Conversor_Multiplo.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\bin\Debug\net9.0-windows\Conversor_Multiplo.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\bin\Debug\net9.0-windows\Conversor_Multiplo.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\bin\Debug\net9.0-windows\Conversor_Multiplo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\bin\Debug\net9.0-windows\Conversor_Multiplo.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.Moedas.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.Temperatura.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.Unidades.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\refint\Conversor_Multiplo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\ref\Conversor_Multiplo.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Conversor_Multiplo\Conversor_Multiplo\obj\Debug\net9.0-windows\Conversor_Multiplo.Sobre.resources

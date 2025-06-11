@@ -1,0 +1,16 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\bin\Debug\net9.0-windows\Tabuada.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\bin\Debug\net9.0-windows\Tabuada.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\bin\Debug\net9.0-windows\Tabuada.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\bin\Debug\net9.0-windows\Tabuada.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\bin\Debug\net9.0-windows\Tabuada.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\obj\Debug\net9.0-windows\Tabuada.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\obj\Debug\net9.0-windows\Tabuada.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\obj\Debug\net9.0-windows\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\obj\Debug\net9.0-windows\Tabuada.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\obj\Debug\net9.0-windows\Tabuada.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\obj\Debug\net9.0-windows\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\obj\Debug\net9.0-windows\Tabuada.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\obj\Debug\net9.0-windows\refint\Tabuada.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\obj\Debug\net9.0-windows\Tabuada.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\obj\Debug\net9.0-windows\Tabuada.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Tabuada\Tabuada\obj\Debug\net9.0-windows\ref\Tabuada.dll

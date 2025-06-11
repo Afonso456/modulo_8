@@ -1,0 +1,16 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\bin\Debug\net9.0-windows\Calcular_V1.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\bin\Debug\net9.0-windows\Calcular_V1.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\bin\Debug\net9.0-windows\Calcular_V1.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\bin\Debug\net9.0-windows\Calcular_V1.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\bin\Debug\net9.0-windows\Calcular_V1.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\obj\Debug\net9.0-windows\Calcular_V1.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\obj\Debug\net9.0-windows\Calcular_V1.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\obj\Debug\net9.0-windows\Calcular_V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\obj\Debug\net9.0-windows\Calcular_V1.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\obj\Debug\net9.0-windows\Calcular_V1.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\obj\Debug\net9.0-windows\Calcular_V1.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\obj\Debug\net9.0-windows\Calcular_V1.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\obj\Debug\net9.0-windows\refint\Calcular_V1.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\obj\Debug\net9.0-windows\Calcular_V1.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\obj\Debug\net9.0-windows\Calcular_V1.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_V1\Calcular_V1\obj\Debug\net9.0-windows\ref\Calcular_V1.dll

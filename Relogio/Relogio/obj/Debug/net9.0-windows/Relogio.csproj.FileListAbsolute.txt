@@ -1,0 +1,16 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\bin\Debug\net9.0-windows\Relogio.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\bin\Debug\net9.0-windows\Relogio.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\bin\Debug\net9.0-windows\Relogio.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\bin\Debug\net9.0-windows\Relogio.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\bin\Debug\net9.0-windows\Relogio.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\obj\Debug\net9.0-windows\refint\Relogio.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\obj\Debug\net9.0-windows\Relogio.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Relogio\Relogio\obj\Debug\net9.0-windows\ref\Relogio.dll

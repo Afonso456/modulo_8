@@ -1,0 +1,17 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\bin\Debug\net9.0-windows\Strings.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\bin\Debug\net9.0-windows\Strings.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\bin\Debug\net9.0-windows\Strings.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\bin\Debug\net9.0-windows\Strings.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\bin\Debug\net9.0-windows\Strings.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\Strings.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\Strings.f_splash.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\Strings.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\Strings.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\Strings.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\Strings.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\Strings.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\refint\Strings.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\Strings.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\Strings.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\Strings\Strings\obj\Debug\net9.0-windows\ref\Strings.dll

@@ -1,0 +1,16 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\bin\Debug\net9.0-windows\Marcas.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\bin\Debug\net9.0-windows\Marcas.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\bin\Debug\net9.0-windows\Marcas.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\bin\Debug\net9.0-windows\Marcas.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\bin\Debug\net9.0-windows\Marcas.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\obj\Debug\net9.0-windows\Marcas.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\obj\Debug\net9.0-windows\Marcas.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\obj\Debug\net9.0-windows\Marcas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\obj\Debug\net9.0-windows\Marcas.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\obj\Debug\net9.0-windows\Marcas.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\obj\Debug\net9.0-windows\Marcas.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\obj\Debug\net9.0-windows\Marcas.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\obj\Debug\net9.0-windows\refint\Marcas.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\obj\Debug\net9.0-windows\Marcas.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\obj\Debug\net9.0-windows\Marcas.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Marcas\Marcas\obj\Debug\net9.0-windows\ref\Marcas.dll

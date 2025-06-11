@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Entradas
+{
+    public partial class Estatisticas_v2 : Form
+    {
+        //construtor
+        public Estatisticas_v2(string mensagem)
+        {
+            InitializeComponent();
+            lbMensagem.Text = mensagem;
+        }
+    }
+}

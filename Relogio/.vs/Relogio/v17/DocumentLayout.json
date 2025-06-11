@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESEN\\OneDrive - Escola Secund\u00E1ria de Em\u00EDdio Navarro de Viseu\\Documentos\\C#\\Relogio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE28696-B5C5-42BC-9CE0-3D7E6AD9ECBC}|Relogio\\Relogio.csproj|c:\\users\\esen\\onedrive - escola secund\u00E1ria de em\u00EDdio navarro de viseu\\documentos\\c#\\relogio\\relogio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FFE28696-B5C5-42BC-9CE0-3D7E6AD9ECBC}|Relogio\\Relogio.csproj|solutionrelative:relogio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE28696-B5C5-42BC-9CE0-3D7E6AD9ECBC}|Relogio\\Relogio.csproj|c:\\users\\esen\\onedrive - escola secund\u00E1ria de em\u00EDdio navarro de viseu\\documentos\\c#\\relogio\\relogio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE28696-B5C5-42BC-9CE0-3D7E6AD9ECBC}|Relogio\\Relogio.csproj|solutionrelative:relogio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ESEN\\OneDrive - Escola Secund\u00E1ria de Em\u00EDdio Navarro de Viseu\\Documentos\\C#\\Relogio\\Relogio\\Form1.cs",
+              "RelativeDocumentMoniker": "Relogio\\Form1.cs",
+              "ToolTip": "C:\\Users\\ESEN\\OneDrive - Escola Secund\u00E1ria de Em\u00EDdio Navarro de Viseu\\Documentos\\C#\\Relogio\\Relogio\\Form1.cs",
+              "RelativeToolTip": "Relogio\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAApwBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:26:24.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ESEN\\OneDrive - Escola Secund\u00E1ria de Em\u00EDdio Navarro de Viseu\\Documentos\\C#\\Relogio\\Relogio\\Form1.cs",
+              "RelativeDocumentMoniker": "Relogio\\Form1.cs",
+              "ToolTip": "C:\\Users\\ESEN\\OneDrive - Escola Secund\u00E1ria de Em\u00EDdio Navarro de Viseu\\Documentos\\C#\\Relogio\\Relogio\\Form1.cs [Design]",
+              "RelativeToolTip": "Relogio\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:24:07.543Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

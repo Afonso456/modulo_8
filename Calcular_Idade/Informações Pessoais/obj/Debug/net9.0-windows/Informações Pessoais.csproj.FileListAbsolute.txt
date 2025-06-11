@@ -1,0 +1,34 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\bin\Debug\net9.0-windows\Informações Pessoais.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\bin\Debug\net9.0-windows\Informações Pessoais.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\bin\Debug\net9.0-windows\Informações Pessoais.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\bin\Debug\net9.0-windows\Informações Pessoais.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\bin\Debug\net9.0-windows\Informações Pessoais.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\Informações_Pessoais.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\refint\Informações Pessoais.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\ref\Informações Pessoais.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Informações Pessoais\Informações Pessoais\obj\Debug\net9.0-windows\Informações_Pessoais.F_Sobre.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\bin\Debug\net9.0-windows\Informações Pessoais.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\bin\Debug\net9.0-windows\Informações Pessoais.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\bin\Debug\net9.0-windows\Informações Pessoais.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\bin\Debug\net9.0-windows\Informações Pessoais.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\bin\Debug\net9.0-windows\Informações Pessoais.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\Informações_Pessoais.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\Informações_Pessoais.F_Sobre.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\refint\Informações Pessoais.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\Informações Pessoais.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Calcular_Idade\Informações Pessoais\obj\Debug\net9.0-windows\ref\Informações Pessoais.dll

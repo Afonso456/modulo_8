@@ -1,0 +1,16 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\bin\Debug\net9.0-windows\Restaurante.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\bin\Debug\net9.0-windows\Restaurante.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\bin\Debug\net9.0-windows\Restaurante.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\bin\Debug\net9.0-windows\Restaurante.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\bin\Debug\net9.0-windows\Restaurante.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\obj\Debug\net9.0-windows\Restaurante.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\obj\Debug\net9.0-windows\Restaurante.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\obj\Debug\net9.0-windows\Restaurante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\obj\Debug\net9.0-windows\Restaurante.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\obj\Debug\net9.0-windows\Restaurante.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\obj\Debug\net9.0-windows\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\obj\Debug\net9.0-windows\Restaurante.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\obj\Debug\net9.0-windows\refint\Restaurante.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\obj\Debug\net9.0-windows\Restaurante.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\obj\Debug\net9.0-windows\Restaurante.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\C#\Restaurante\Restaurante\obj\Debug\net9.0-windows\ref\Restaurante.dll

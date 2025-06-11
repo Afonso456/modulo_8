@@ -1,0 +1,16 @@
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\bin\Debug\net9.0-windows\MasterMind.exe
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\bin\Debug\net9.0-windows\MasterMind.deps.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\bin\Debug\net9.0-windows\MasterMind.runtimeconfig.json
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\bin\Debug\net9.0-windows\MasterMind.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\bin\Debug\net9.0-windows\MasterMind.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\obj\Debug\net9.0-windows\MasterMind.Form1.resources
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\obj\Debug\net9.0-windows\MasterMind.csproj.GenerateResource.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\obj\Debug\net9.0-windows\MasterMind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\obj\Debug\net9.0-windows\MasterMind.AssemblyInfoInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\obj\Debug\net9.0-windows\MasterMind.AssemblyInfo.cs
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\obj\Debug\net9.0-windows\MasterMind.csproj.CoreCompileInputs.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\obj\Debug\net9.0-windows\MasterMind.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\obj\Debug\net9.0-windows\refint\MasterMind.dll
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\obj\Debug\net9.0-windows\MasterMind.pdb
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\obj\Debug\net9.0-windows\MasterMind.genruntimeconfig.cache
+C:\Users\ESEN\OneDrive - Escola Secundária de Emídio Navarro de Viseu\Documentos\some stuff\projects\MasterMind\MasterMind\obj\Debug\net9.0-windows\ref\MasterMind.dll
